@@ -1,11 +1,11 @@
 {
-  "name": "Asena UserBot",
-  "description": "Asena UserBot",
+  "name": "master userbot",
+  "description": "Master Userbot",
   "logo": "https://i.hizliresim.com/1UoYoT.jpg",
   "keywords": [
     "telegram",
     "userbot",
-	"Asena",
+	"Master",
     "plugin",
     "modular",
     "productivity"
@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork sağlamanız durumunda repo URL'nizi buraya ekleyin. Varsayılan olarak kendi repo adresimiz eklidir.",
-      "value": "https://github.com/Quiec/AsenaUserBot",
+      "value": "https://github.com/Umitduru/masteruserbot",
       "required": true
     },
     "COUNTRY": {
@@ -177,7 +177,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Varsayılan profil biyografisi.",
-      "value": "@AsenaUserBot",
+      "value": "@Masteruserbot",
       "required": false
     },
     "G_DRIVE_CLIENT_SECRET": {
@@ -217,7 +217,7 @@
     },
     "PAKET_ISMI": {
       "description": "Dızla komutu paket ismini belirleyin. Paket ismi şöyle olacaktır: @KullanıcıAdın verdiğin değer 1",
-      "value": "@AsenaUserBot Paketi",
+      "value": "@Masteruserbot Paketi",
       "required": false
     },
     "OTOMATIK_KATILMA": {
@@ -235,7 +235,7 @@
     "plan": "heroku-postgresql"
   }],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/Masteruserbot/heroku-buildpack-ffmpeg-latest"
   }, {
     "url": "heroku/python"
   },{
