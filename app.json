@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/quiec/AsenaUserbot",
+  "repository": "https://github.com/quiec/Masteruserbot",
   "website":   "https://quiec.tech",
-  "success_url": "https://t.me/AsenaSupport",
+  "success_url": "https://t.me/Mastersuportt",
   "stack": "container",
   "env": {
     "API_KEY": {
